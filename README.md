@@ -90,7 +90,7 @@ http://localhost:3000
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Meghana VL
 B.Tech CSE Student
